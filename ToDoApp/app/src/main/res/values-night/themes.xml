@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- Dark mode -->
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+        <!-- Customize your dark theme here -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Add other style items as needed -->
+    </style>
+</resources>
